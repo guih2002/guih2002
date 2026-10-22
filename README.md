@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Henrique de Almeida! 👋
+# Olá, eu sou o Guilherme Henrique! 👋
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco e paixão pela área de **Segurança da Informação / Cybersecurity**. 
 
@@ -17,9 +17,6 @@ Busco unir os conhecimentos de engenharia de software, arquitetura de sistemas e
 ## 🧰 Tecnologias & Ferramentas
 
 ##💻 Desenvolvimento & Banco de Dados
-
-💻 Desenvolvimento & Banco de Dados
-
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
